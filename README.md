@@ -216,7 +216,7 @@
         <p class="text-line"><font color="#fff">I can't be the pencil that write your lyrycs, But let me be your rubber to clean  your fails. </font></p>
 <p2 class="text-line"><font color="#fff">
 The cat really was in love with the miusic, he trade his seven lifes to have one with her. </font></p2>
-        <p class="text-line">This is my channel <a href="file:///C:/Users/adoni/OneDrive/Escritorio/Y%20miusicT%20%20%20version1.1.html">YmusicT</a></p>
+        <p class="text-line">This is my channel <a href="https://www.youtube.com/@ymusict1041">YmusicT</a></p>
     </div>
 
     <div class="notes">
